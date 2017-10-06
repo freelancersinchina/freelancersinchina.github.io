@@ -1,0 +1,18 @@
+# Setup
+title:        Pingo Lab Blog
+tagline:      记录一些谁诉科技的事情，会死会活只有天知道
+baseurl:      ""
+paginate:     1
+timezone:   Asia/Shanghai
+
+# About/contact
+author:
+  name:       Flywu 
+  url:        http://blog.pingolab.com 
+
+# Gems
+gems:
+  - jekyll-paginate
+
+#Others
+markdown: kramdown
