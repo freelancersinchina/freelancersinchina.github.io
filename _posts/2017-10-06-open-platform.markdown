@@ -1,9 +1,11 @@
 
 ---
+
 layout: default
 title:  "一种新公众平台的可能性"
 date:   2017-10-06 17:50:00
 categories: main
+
 ---
 
 # 一种新公众平台的可能性
